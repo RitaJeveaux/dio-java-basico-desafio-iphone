@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T20:01:48.848Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zU18Npq0pk6TyHp9RK4a" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T20:05:59.958Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="v7mMKB6jQdHX3fUuleTX" version="24.6.4" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="994" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -33,6 +33,24 @@
         </mxCell>
         <mxCell id="A_SkZZXPMSEsum9uNGTO-28" value="+ play(): void&amp;nbsp;&lt;br&gt;+ pause(): void&lt;div&gt;+ stop(): void&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="A_SkZZXPMSEsum9uNGTO-24">
           <mxGeometry y="26" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="A_SkZZXPMSEsum9uNGTO-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.278;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A_SkZZXPMSEsum9uNGTO-16" target="A_SkZZXPMSEsum9uNGTO-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="300" as="sourcePoint" />
+            <mxPoint x="490" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_SkZZXPMSEsum9uNGTO-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.556;entryY=0.009;entryDx=0;entryDy=0;exitX=0.452;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="A_SkZZXPMSEsum9uNGTO-16" target="A_SkZZXPMSEsum9uNGTO-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_SkZZXPMSEsum9uNGTO-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.727;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A_SkZZXPMSEsum9uNGTO-16" target="A_SkZZXPMSEsum9uNGTO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="452" y="280" as="sourcePoint" />
+            <mxPoint x="140" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
