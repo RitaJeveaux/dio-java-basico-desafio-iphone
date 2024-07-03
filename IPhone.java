@@ -5,7 +5,7 @@ public class IPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorI
 
     @Override
     public void play() {
-        System.out.println("Reproduzindo música...");
+        System.out.println("Reproduzindo música.");
     }
 
     @Override
@@ -25,7 +25,7 @@ public class IPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorI
 
     @Override
     public void atenderChamada() {
-        System.out.println("Atendendo chamada...");
+        System.out.println("Atendendo chamada.");
     }
 
     @Override
